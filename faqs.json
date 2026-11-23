@@ -1,0 +1,62 @@
+[
+  {
+    "pregunta": "horario hora abren cierran dias atencion",
+    "mostrar": "¿Cuál es el horario de atención?",
+    "respuesta": "🍻 ¡Te esperamos en *El Bodegón*!\n\n• *Martes a jueves:* 4:00 p.m. a 11:30 p.m.\n• *Viernes y sábados:* 12:00 m. a 2:00 a.m.\n• *Domingos:* 12:00 m. a 9:00 p.m.\n_(Los lunes cerramos para recargar energía)._"
+  },
+  {
+    "pregunta": "ubicacion direccion donde quedan llegar mapa",
+    "mostrar": "¿Dónde están ubicados?",
+    "respuesta": "📍 Estamos en la *Zona Rosa (Calle 10 # 43A-25)*, a dos cuadras del parque principal. ¡Nos reconoces fácil por nuestro letrero de neón en la esquina!"
+  },
+  {
+    "pregunta": "reserva reservar mesa apartar grupo",
+    "mostrar": "¿Cómo puedo reservar una mesa?",
+    "respuesta": "📅 ¡Con gusto te guardamos mesa en *El Bodegón*! Escríbenos por aquí:\n• Fecha y hora\n• Número de personas\n• Nombre de quien reserva\n\n_(Para grupos de más de 8 personas te recomendamos reservar con 24 horas de anticipación)._"
+  },
+  {
+    "pregunta": "menu carta comida platos venden precios hamburguesas",
+    "mostrar": "¿Qué tienen en el menú o carta?",
+    "respuesta": "🍔🔥 En *El Bodegón* nuestra especialidad son:\n• *Hamburguesas artesanales* a la parrilla (desde $28.000)\n• *Costillas BBQ* cocidas a fuego lento ($42.000)\n• *Picadas para compartir* de 2 a 4 personas ($55.000 - $85.000)\n• *Alitas bañadas* en salsa de la casa, miel mostaza o picante ($26.000)\n• *Nachos supremos y entradas* para picar\n\n¿Te provocó algo en especial?"
+  },
+  {
+    "pregunta": "cocteles trago cerveza licores bebidas happy hour",
+    "mostrar": "¿Qué bebidas, cócteles y cervezas ofrecen?",
+    "respuesta": "🍹🍺 ¡Nuestra barra está más que lista! Tenemos:\n• *Cócteles de autor* y clásicos (Margarita, Mojito, Gin Tonic, Moscow Mule) desde $24.000\n• *Cervezas artesanales de barril* y nacionales bien frías\n• *Shot bar*, vinos y botellas de licor\n\n🎉 *Happy Hour:* Martes a jueves de 4:00 p.m. a 7:00 p.m. con *2x1 en cócteles seleccionados*."
+  },
+  {
+    "pregunta": "domicilio envio pedir casa rappi",
+    "mostrar": "¿Tienen servicio a domicilio?",
+    "respuesta": "🛵💨 ¡Claro que sí! Llevamos el sabor de *El Bodegón* hasta tu casa.\n• *Costo de envío:* $6.000 en zona urbana (¡gratis en pedidos mayores a $70.000!).\n• *Tiempo estimado:* 30 a 45 minutos.\n• *Horario de domicilios:* Martes a domingo de 12:00 m. a 10:30 p.m."
+  },
+  {
+    "pregunta": "cumpleanos celebracion decoracion torta evento",
+    "mostrar": "¿Celebran cumpleaños o eventos especiales?",
+    "respuesta": "🎂🥳 ¡Nos encanta celebrar contigo! Si vienes de cumpleaños a *El Bodegón*:\n• Te regalamos un *cóctel de la casa o postre* para el cumpleañero.\n• Puedes traer tu torta sin costo adicional.\n• Si reservas con anticipación, te decoramos la mesa con globos y letrero."
+  },
+  {
+    "pregunta": "musica vivo dj partido futbol pantalla",
+    "mostrar": "¿Tienen música en vivo, DJ o transmiten partidos?",
+    "respuesta": "🎶⚽ ¡Siempre hay buen ambiente!\n• *Jueves:* Noche acústica / rock en español en vivo desde las 8:00 p.m.\n• *Viernes y sábados:* DJ crossover en vivo desde las 9:30 p.m.\n• *Días de partido:* Transmitimos los mejores encuentros en pantalla gigante con sonido envolvente."
+  },
+  {
+    "pregunta": "vegetariano vegano sin gluten alergias opciones",
+    "mostrar": "¿Tienen opciones vegetarianas o sin gluten?",
+    "respuesta": "🥗🌱 ¡Sí! Nadie se queda sin comer rico:\n• Hamburguesa *Veggie Portobello* artesanal\n• Tacos de vegetales salteados y guacamole\n• Ensalada mediterránea y papas rústicas\n\nSi tienes alguna alergia alimentaria, avísanos al pedir para cuidar cada detalle."
+  },
+  {
+    "pregunta": "pago tarjeta efectivo nequi daviplata transferencia",
+    "mostrar": "¿Qué métodos de pago aceptan?",
+    "respuesta": "💳💵 Aceptamos todas las tarjetas de crédito y débito (Visa, Mastercard, Amex), pagos sin contacto, Nequi, Daviplata, transferencia Bancolombia y efectivo."
+  },
+  {
+    "pregunta": "parqueadero estacionamiento carro moto valet",
+    "mostrar": "¿Tienen parqueadero?",
+    "respuesta": "🚗🏍️ Contamos con convenio con el parqueadero vigilado justo frente al local: tienes *2 horas gratis* presentando tu factura de consumo de *El Bodegón*."
+  },
+  {
+    "pregunta": "mascotas pet friendly perro",
+    "mostrar": "¿Son pet friendly / aceptan mascotas?",
+    "respuesta": "🐶❤️ ¡Somos 100% *Pet Friendly* en nuestra zona de terraza! Tu peludo es bienvenido y siempre tenemos un platico con agua fresca listo para él."
+  }
+]
